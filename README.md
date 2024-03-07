@@ -4,7 +4,7 @@
 
 <img align="right" src="https://media.tenor.com/kyeNs4DnuW0AAAAM/dev_animado.gif" />
 
-- 🔭 I’m currently working on **a Bootloader Manager **
+- 🔭 I’m currently working on **Bootloader Manager**
 
 - 🌱 I’m currently learning **Embedded C++**
 
