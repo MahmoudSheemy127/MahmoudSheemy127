@@ -4,13 +4,13 @@
 
 <img align="right" src="https://media.tenor.com/kyeNs4DnuW0AAAAM/dev_animado.gif" />
 
-- 🔭 I’m currently working on **a Propeller clock ⏰**
+- 🔭 I’m currently working on **a Bootloader Manager **
 
-- 🌱 I’m currently learning **Embedded Software design**
+- 🌱 I’m currently learning **Embedded C++**
 
 - 👯 I’m looking to collaborate on **Large scale Embedded Applications 💪**
 
-- 💬 Ask me about **Embedded C, AVR microcontrollers, RTOS and ARM Architecture + anything Embedded Related**
+- 💬 Ask me about **Embedded C, AVR microcontrollers, RTOS and ARM Architecture, Embedded Linux + anything Embedded Related**
 
 - 📫 How to reach me **mahmoudalshemy.3@gmail.com**
 
